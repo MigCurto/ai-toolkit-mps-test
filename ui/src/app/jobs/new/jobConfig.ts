@@ -17,6 +17,7 @@ export const defaultDatasetConfig: DatasetConfig = {
   do_i2v: true,
   flip_x: false,
   flip_y: false,
+  num_repeats: 1,
 };
 
 export const defaultSliderConfig: SliderConfig = {
